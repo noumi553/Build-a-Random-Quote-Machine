@@ -1,0 +1,4 @@
+# /docs/_config.yml
+title: My Jekyll Site
+description: A simple site using Jekyll
+theme: jekyll-theme-primer
